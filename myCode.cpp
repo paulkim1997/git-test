@@ -2,4 +2,4 @@ hello world
 by world
 
 ni hao ma
-zai jian
+zai jian //주석
